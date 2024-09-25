@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+87389635ed4dd3e45af305c15b1a445d40548b87 refs/heads/di-patch-1
+f192aac83bab733fc9a9f045a547e9d4c9fd1ad8 refs/heads/master
+937feec1f7bb5a2c779b20495f661d16e1315f48 refs/pull/1/head
+0f1275bca5c95fe2b3be4c401419da4f952b65ee refs/pull/10/head
+989269505c44e760cd8fe77421d09f6bdfce4c84 refs/pull/11/head
+87389635ed4dd3e45af305c15b1a445d40548b87 refs/pull/12/head
+82869bf434386606b6b0945036b9d3bc531afa02 refs/pull/3/head
+27e94ea8912d81d4c59f74d86ed2635c3ff8664c refs/pull/4/head
+a88956c9ffa1899923d0503458eae689e4533aea refs/pull/5/head
+29f36d1cc1c57c1d176885614ae22b7f12b7719d refs/pull/8/head
+6aeadd0d6d45be346f4c72d27a5493e5581c343d refs/pull/9/head
+e9c0047f8febd34c6191b4f7dcbd752fc35d4ef1 refs/tags/2021.7.30
+3268d8acf2c345f32a1c5f08ba25dc67f76cca81 refs/tags/2022.06.26

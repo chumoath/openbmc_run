@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/openbmc/obmc-ikvm
+	fetch = +refs/*:refs/*
+	mirror = true

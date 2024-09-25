@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/arthurdejong/nss-pam-ldapd
+	fetch = +refs/*:refs/*
+	mirror = true
